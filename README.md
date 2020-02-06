@@ -1,0 +1,1 @@
+# LiveSupportChat-JavaScript
